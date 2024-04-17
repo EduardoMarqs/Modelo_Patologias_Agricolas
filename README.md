@@ -86,18 +86,22 @@ Abaixo é possível fazer um comparativo dos resultados dos dois modelos:
 Também é possível fazer uma comparação com a evolução do treinamento e da validação entre os dois modelos:
 
 ![image](https://github.com/EduardoMarqs/Modelo_Patologias_Agricolas/assets/26355017/1d468f29-76cc-4717-9cf0-d0c7b73de160)
+
 Figura 6 – Accuracy Modelo 1
 
 
 ![image](https://github.com/EduardoMarqs/Modelo_Patologias_Agricolas/assets/26355017/56d3c230-e1dc-432e-9282-7b5fb5a09b94)
+
 Figura 7 - Loss Modelo 1
 
 
 ![image](https://github.com/EduardoMarqs/Modelo_Patologias_Agricolas/assets/26355017/e5ef590a-ad69-4b42-878e-fbcf51256b83)
+
 Figura 8 – Accuracy Modelo 2
 
 
 ![image](https://github.com/EduardoMarqs/Modelo_Patologias_Agricolas/assets/26355017/d813ab13-26ef-42b7-8c03-ef44d1ae3ac5)
+
 Figura 9 – Loss Modelo 2
 
 
@@ -114,12 +118,14 @@ que é importante identificar as plantas que estão doentes.
 
 
 ![image](https://github.com/EduardoMarqs/Modelo_Patologias_Agricolas/assets/26355017/79d8df10-d55d-4448-9e2c-b0b88b64136b)
+
 Figura 10 – Precisão do Modelo 1
 
 
 A matriz de confusão abaixo, mostra de forma ilustrativa a quantidade de acertos e erros no teste do primeiro modelo.
 
 ![image](https://github.com/EduardoMarqs/Modelo_Patologias_Agricolas/assets/26355017/b398174c-2c45-437b-a586-78ca9e6b81d2)
+
 Figura 11 – Matriz de confusão Modelo 1
 
 
@@ -127,12 +133,14 @@ Já no modelo 2, conforme a tabela de precisão abaixo, fica claro que, levando 
 
 
 ![image](https://github.com/EduardoMarqs/Modelo_Patologias_Agricolas/assets/26355017/bd6a21ca-ba22-4f3e-8689-a07b29359679)
+
 Figura 12 – Precisão do Modelo 2
 
 
 Pela matriz de confusão do modelo 2, é possível observar que, mesmo o modelo tendo um bom resultado de acurácia, a maior quantidade de erro foi na identificação das patologias.
 
 ![image](https://github.com/EduardoMarqs/Modelo_Patologias_Agricolas/assets/26355017/b62c2c28-59ee-4534-b698-65a2b52ed7f7)
+
 Figura 13 – Matriz de confusão Modelo 2
 
 
